@@ -10,9 +10,9 @@ public class YYTest {
     /**
      * 设置APPID/AK/SK
      */
-    public static final String APP_ID = "11265930";
-    public static final String API_KEY = "kDcOkAPBXP3rBowovA62Xo9Z";
-    public static final String SECRET_KEY = "cZZVxka161RKgTsxKRw0nsuBjKRZGvIC";
+    public static final String APP_ID = "****";
+    public static final String API_KEY = "****";
+    public static final String SECRET_KEY = "****";
 
     public static void main(String[] args) {
         AipSpeech client = new AipSpeech(APP_ID, API_KEY, SECRET_KEY);
